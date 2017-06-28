@@ -1,23 +1,5 @@
-# BlockHorizons Code Style
-BlockHorizons' default code style for most repositories to import in PHPStorm
+# BlockHorizons Plugin Standards
+BlockHorizons' usual plugin standards. It is **recommended** to use these standards, but it's not prohibited to modify those to your own likes in other plugins.
 
-### The basics
-* Tabs must be used instead of spaces
-* Tabs must have an indendation size of 4
-* PHPDoc comments should have a space between every tag type, e.g.
-```php
-/**
- * Some method.
- * 
- * @param string $parameter
- *
- * @return bool
- */
-```
-* YAML files should start with `---` and end with `...`, and a space between the text and comment hashtag, e.g.
-```yaml
----
-# A comment
-some-key: something
-...
-```
+### Code Standards
+BlockHorizons' default coding standards can be found [here](https://github.com/BlockHorizons/BlockHorizons-Plugin-Standards/blob/master/CodeStandards.md). It is recommended to follow these standards.
