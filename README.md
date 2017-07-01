@@ -3,3 +3,6 @@ BlockHorizons' usual plugin standards. It is **recommended** to use these standa
 
 ### Code Standards
 BlockHorizons' default coding standards can be found [here](https://github.com/BlockHorizons/BlockHorizons-Plugin-Standards/blob/master/CodeStandards.md). It is recommended to follow these standards.
+
+### Repo Standards
+All plugin repos should have the tag `pmmp-plugin`.
